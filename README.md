@@ -1,7 +1,7 @@
 # TootooniLab.github
 Welcome to Tootooni Lab! 
 
-This is a data science and Health Informatics lab , under the leadership of Samie Mohammad Tootooni, designed to help improve the healthcare field via decision science and artificial intelligence. 
+This is a data science and Health Informatics lab, under the leadership of Samie Mohammad Tootooni, designed to help improve the healthcare field via decision science and artificial intelligence. 
 
 Meet the Lab!
 
@@ -23,7 +23,7 @@ Graduate Student Intern
 I am currently working on a project that analyzes the contributing factors of therapeutic inertia within elderly hypertensive patients. My specific role involves linking geospatial determinants of health to patient addresses at census boundary levels. This, along with further contextual information from other aspects of the project will provide insight into whether the geospatial features of the location in which a patient resides has any influence on the occurrence of therapeutic inertia.
 
 4. Grant Hiura: 
-Medical Student 
+Medical Student Intern
 
  I am a Medical Student at Loyola University’s Stitch School of Medicine and my current project focuses on EMS-ED-Stroke. Life-saving treatments for strokes are time-sensitive and require rapid triage and transport to the appropriate stroke system of care. Prehospital data, recorded by Emergency Medical Services (EMS), can be used to develop early diagnosis tools, often using artificial intelligence (AI). By improving the quality and quantity of prehospital EMS data and ensuring its interoperability with Emergency Department (ED) data, AI-based clinical tools can be made more accurate, leading to earlier diagnosis of time-sensitive conditions such as stroke. Thus, I am excited for this project because we aim to characterize the availability and distributions of prehospital data, then examine the reliability of prehospital data by comparing EMS measurements with those acquired upon ED arrival.
 
