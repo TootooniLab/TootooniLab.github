@@ -36,3 +36,4 @@ Hello everyone! I am an Undergraduate Student majoring in Biochemistry and Molec
 Undergraduate Student Intern
 
 Hi everyone! I’m Shawn Liu, a rising second year undergraduate student at Loyola University’s Lakeshore campus.  I am currently working on the creation, organization, and management of the Tootooni lab website, using both GitHub and Terminal Four. I will also be assisting Grant Hiura on another project regarding stroke hospitals, by taking each data set and sorting each of the given hospitals into what type of stroke facility they are.
+
