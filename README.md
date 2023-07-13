@@ -5,7 +5,7 @@ This is a data science and Health Informatics lab, under the leadership of Samie
 
 Meet the Lab!
 
-![tempImageB9WJvs](https://github.com/TootooniLab/TootooniLab.github/assets/136485825/7108b886-9707-49ed-bd98-0de8033bb632)
+
 
 
 1. Samie Mohammad Tootooni:
