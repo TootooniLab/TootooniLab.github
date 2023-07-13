@@ -5,6 +5,8 @@ This is a data science and Health Informatics lab, under the leadership of Samie
 
 Meet the Lab!
 
+
+
 1. Samie Mohammad Tootooni:
 
 I am an assistant professor in the Department of Health Informatics and Data Science with a secondary appointment in the Center for Health Outcomes and Informatics Research at Loyola University Chicago. I received my PhD in Industrial and Systems Engineering (ISE) from Binghamton University in 2016. Prior to joining Loyola, I was a postdoctoral research associate in the Department of Health Sciences Research at Mayo Clinic in Rochester, Minnesota, for two years.
