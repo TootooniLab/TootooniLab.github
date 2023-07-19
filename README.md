@@ -1,9 +1,9 @@
 # TootooniLab.github
-Welcome to Tootooni Lab! 
+## Welcome to Tootooni Lab! 
 
 This is a data science and Health Informatics lab, under the leadership of Samie Mohammad Tootooni, designed to help improve the healthcare field via decision science and artificial intelligence. 
 
-Meet the Lab!
+## Meet the Lab!
 
 
 ![tempImage6G3H0c](https://github.com/TootooniLab/TootooniLab.github/assets/136485825/2008e8cc-3fea-497d-9e32-98ef7c7f3843)
