@@ -42,3 +42,22 @@ Hello everyone! I am an Undergraduate Student majoring in Biochemistry and Molec
 
 Hi everyone! I’m Shawn Liu, a rising second year undergraduate student at Loyola University’s Lakeshore campus.  I am currently working on the creation, organization, and management of the Tootooni lab website, using both GitHub and Terminal Four. I will also be assisting Grant Hiura on another project regarding stroke hospitals, by taking each data set and sorting each of the given hospitals into what type of stroke facility they are.
 
+## 7. Neelam Balasubramanian 
+
+
+## 8. Sushritha Konda
+### Graduate Student 
+
+![IMG_0468_Original](https://github.com/TootooniLab/TootooniLab.github/assets/136485825/4f3afb25-16da-41a8-8112-68252cc8d1db)
+
+
+I am Sushritha Konda, a graduate student in health informatics program at Indiana University-Purdue University, Indianapolis (IUPUI). Being a passionate and diligent student, I have published an article from my academic project in national as well as international journals during my under graduation and actively participated in data analysis using programming languages during my graduation. Presently, I am working as an intern for a project conducted by Prof. Mohammad Samie Tootooni in the department of health informatics and Data science where his research is focused on analyzing the quality of antibiotic dosing among the ICU patients using MIMIC and eICU datasets. I shall contribute my theoretical knowledge that I have gained from my coursework by performing appropriate data analysis, literature review, and explore the usage of Artificial Intelligence in developing the decision support tools.
+
+
+## 9.Alireza Kasaie
+### Ph.D. Candidate
+
+![IMG_9811](https://github.com/TootooniLab/TootooniLab.github/assets/136485825/20e969c2-bf62-4152-a1a1-c65031ab22ff)
+
+
+Alireza Kasaie, a Ph.D. candidate at the University of Missouri-Columbia, has a specialization in Industrial and Systems Engineering. His current research is centered around the application of supervised machine learning algorithms and simulation modeling within healthcare systems. Additionally, Alireza holds a minor in Healthcare Analytics and Human-Centered Systems. His primary focus lies in enhancing psychiatric clinical scheduling efficiency through the implementation of predictive and prescriptive analytics methodologies.
