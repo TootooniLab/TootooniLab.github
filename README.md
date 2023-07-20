@@ -12,6 +12,11 @@ This is a data science and Health Informatics lab, under the leadership of Samie
 ## 1. Samie Mohammad Tootooni:
 ### Assistant Professor
 
+[
+](https://www.luc.edu/media/lucedu/parkinson/headshots/2021/mtootooni.jpg)
+
+![image](https://github.com/TootooniLab/TootooniLab.github/assets/136485825/5905b215-2140-4a67-b170-2547e99ba712)
+
 I am an assistant professor in the Department of Health Informatics and Data Science with a secondary appointment in the Center for Health Outcomes and Informatics Research at Loyola University Chicago. I received my PhD in Industrial and Systems Engineering (ISE) from Binghamton University in 2016. Prior to joining Loyola, I was a postdoctoral research associate in the Department of Health Sciences Research at Mayo Clinic in Rochester, Minnesota, for two years.
 
 My research lies in the intersection of decision science and artificial intelligence, which furthers knowledge of monitoring of and predictive analytics for complex healthcare systems. I am particularly interested in the role of data science and artificial intelligence tools such as machine learning and natural language processing in development of clinical decision support models. Having an industrial and systems engineering background, I am also interested to apply systems thinking, quality assurance, and optimization principles to improve health outcomes. Furthermore, I teach courses such as ontologies (knowledge representation) in health and natural language processing.
