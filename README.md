@@ -25,6 +25,9 @@ My research lies in the intersection of decision science and artificial intellig
 ## 3. Michael Saban:
 ### Graduate Student Intern
 
+![IMG_3311 (1)](https://github.com/TootooniLab/TootooniLab.github/assets/136485825/3774d0c9-4f88-45ad-ba29-262d326c7287)
+
+
 I am currently working on a project that analyzes the contributing factors of therapeutic inertia within elderly hypertensive patients. My specific role involves linking geospatial determinants of health to patient addresses at census boundary levels. This, along with further contextual information from other aspects of the project will provide insight into whether the geospatial features of the location in which a patient resides has any influence on the occurrence of therapeutic inertia.
 
 ## 4. Grant Hiura: 
@@ -34,6 +37,10 @@ I am currently working on a project that analyzes the contributing factors of th
 
 ## 5. Rachel Brown:
 ### Undergraduate Student Intern 
+
+![IMG_0488](https://github.com/TootooniLab/TootooniLab.github/assets/136485825/ceed664d-41a6-40b5-8428-dc867c6735d9)
+
+
 
 Hello everyone! I am an Undergraduate Student majoring in Biochemistry and Molecular Biology at Lincoln University Pa, and I’m currently working on this advanced development platform, GitHub, for Tootooni Lab, analyzing the uses and benefits that it can provide in an academic lab. Also, to determine how much more efficient it would make academic research. This project will be focused on the key features—Issues, Wiki and Branches, examining their uses and benefits in an academic lab. 
 
