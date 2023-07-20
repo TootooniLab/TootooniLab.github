@@ -43,6 +43,9 @@ Hello everyone! I am an Undergraduate Student majoring in Biochemistry and Molec
 Hi everyone! I’m Shawn Liu, a rising second year undergraduate student at Loyola University’s Lakeshore campus.  I am currently working on the creation, organization, and management of the Tootooni lab website, using both GitHub and Terminal Four. I will also be assisting Grant Hiura on another project regarding stroke hospitals, by taking each data set and sorting each of the given hospitals into what type of stroke facility they are.
 
 ## 7. Neelam Balasubramanian 
+### Data Analyst
+
+My  project seeks to extract concepts from Emergency Department (ED) Chief Complaints (CC) and map them to a structured list of CC Groups created by ED clinicians. When patients come to the ED, the CC is a short description of their reason for visit and is part of the earliest information collected for the encounter. We will first use three natural language processing (NLP) models to extract the concepts in the form of SNOMED-CT codes called SCTIDs. SNOMED-CT is a comprehensive and hierarchical clinical ontology. The three NLP models are cTAKES, cNAE, and a BERT-based model. We will also create the mappings of SCTIDs to CC groups in an SCTID Bank that takes advantage of the SNOMED-CT hierarchy to reduce manual work. Finally we will map the free text CC to the CC groups. These CC groups can be used on their own or be used in downstream processes such as resource allocation and clinical decision support.
 
 
 ## 8. Sushritha Konda
