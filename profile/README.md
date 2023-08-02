@@ -57,7 +57,7 @@ I am currently working on a project that analyzes the contributing factors of th
 
 
 
-Hello everyone! I am an Undergraduate Student majoring in Biochemistry and Molecular Biology at Lincoln University,Pa, and I’m currently working on this advanced development platform, GitHub, for Dr.Tootooni's Lab, analyzing the uses and benefits that it can provide in an academic lab. Also, to determine how much more efficient it would make academic research. This project will be focused on the key features—Issues, Wiki and Branches, examining their uses and benefits in an academic lab. Though I am currently working on thiis project, I also have to opportunity to learn about everyone's research in the lab.....
+Hello everyone! I am an Undergraduate Student majoring in Biochemistry and Molecular Biology at Lincoln University,Pa, and I’m currently working on this advanced development platform, GitHub, for Dr.Tootooni's Lab, analyzing the uses and benefits that it can provide in an academic lab. Also, to determine how much more efficient it would make academic research. This project will be focused on the key features—Issues, Wiki and Branches, examining their uses and benefits in an academic lab. Though I am currently working on thiis project, I also have the opportunity to learn about everyone's research in the lab. It is such an amazing experience that broadens my horizon on the different fields in sciene, and also teaches me a lot about data science and Artificial Inelligence. 
 
 ## 6. Shawn Liu:
 ### Undergraduate Student Intern
